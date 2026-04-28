@@ -60,7 +60,7 @@ The dataset is a CSV file with no column headers. Each row is a comma-separated 
 | Q1 – Q15       | `filter`, `map`, `count`, `reduceByKey`, `sortBy`, `take`, `takeOrdered`, `flatMap`   |
 | Q16 – Q30      | Top-N cities, averages, currency conversion (₹→USD), multi-condition filters          |
 | Q31 – Q50      | `flatMap`, `distinct`, `join`, suspicious detection, composite keys, 10% uplift       |
-| Q51 – Q69      | Deposit-only customers, high-frequency cities, city stats, withdrawal ranking, tags   |
+| Q51 – Q70      | Deposit-only customers, high-frequency cities, city stats, withdrawal ranking, tags   |
 
 **Selected exercises include:**
 - Net balance per customer (Deposit = +, Withdrawal / Transfer = −)
